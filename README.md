@@ -10,7 +10,7 @@
 
 <br>
 
-## ⚙ Used Technique
+## ⚙ Organization & Used Technique
 
 | Development Area | Element | Role Officer |
 | :--: | :-----: | :--: |
