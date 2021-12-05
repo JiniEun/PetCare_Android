@@ -1,0 +1,92 @@
+{
+    "OrganicAnimalProtectionFacilit": [
+        {
+            "head": [
+                {
+                    "list_total_count": 4
+                },
+                {
+                    "RESULT": {
+                        "CODE": "INFO-000",
+                        "MESSAGE": "정상 처리되었습니다."
+                    }
+                },
+                {
+                    "api_version": "1.0"
+                }
+            ]
+        },
+        {
+            "row": [
+                {
+                    "SUM_YY": "2016",
+                    "SIGUN_NM": "용인시",
+                    "SIGUN_CD": "41460",
+                    "ENTRPS_NM": "죽전동물불임센터",
+                    "REPRSNTV_NM": "성준우, 김관용",
+                    "ACEPTNC_ABLTY_CNT": 100,
+                    "ENTRPS_TELNO": "031-334-7612",
+                    "CONTRACT_PERD": "20161231",
+                    "CORPR_ANIMAL_HOSPTL_DTLS": null,
+                    "RM_MATR": null,
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 처인구 모현읍 오산리 193-28번지",
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 처인구 모현읍 대지로 407",
+                    "REFINE_ZIP_CD": "16884",
+                    "REFINE_WGS84_LOGT": "127.1511568",
+                    "REFINE_WGS84_LAT": "37.3307628"
+                },
+                {
+                    "SUM_YY": "2019",
+                    "SIGUN_NM": "용인시",
+                    "SIGUN_CD": "41460",
+                    "ENTRPS_NM": "용인시동물보호센터",
+                    "REPRSNTV_NM": "용인시장",
+                    "ACEPTNC_ABLTY_CNT": 150,
+                    "ENTRPS_TELNO": "031-324-3463",
+                    "CONTRACT_PERD": "직영",
+                    "CORPR_ANIMAL_HOSPTL_DTLS": null,
+                    "RM_MATR": null,
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 처인구 삼가동 164번지",
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 처인구 중부대로 1074-1",
+                    "REFINE_ZIP_CD": "17090",
+                    "REFINE_WGS84_LOGT": "127.1591338",
+                    "REFINE_WGS84_LAT": "37.243299"
+                },
+                {
+                    "SUM_YY": "2018",
+                    "SIGUN_NM": "용인시",
+                    "SIGUN_CD": "41460",
+                    "ENTRPS_NM": "용인시동물보호센터",
+                    "REPRSNTV_NM": "용인시장",
+                    "ACEPTNC_ABLTY_CNT": 150,
+                    "ENTRPS_TELNO": "031-324-3463",
+                    "CONTRACT_PERD": "직영",
+                    "CORPR_ANIMAL_HOSPTL_DTLS": null,
+                    "RM_MATR": null,
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 처인구 삼가동 164번지",
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 처인구 중부대로 1074-1",
+                    "REFINE_ZIP_CD": "17090",
+                    "REFINE_WGS84_LOGT": "127.1591338",
+                    "REFINE_WGS84_LAT": "37.243299"
+                },
+                {
+                    "SUM_YY": "2017",
+                    "SIGUN_NM": "용인시",
+                    "SIGUN_CD": "41460",
+                    "ENTRPS_NM": "용인시동물보호센터",
+                    "REPRSNTV_NM": "용인시장",
+                    "ACEPTNC_ABLTY_CNT": 150,
+                    "ENTRPS_TELNO": "031-324-3463",
+                    "CONTRACT_PERD": "직영",
+                    "CORPR_ANIMAL_HOSPTL_DTLS": null,
+                    "RM_MATR": null,
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 처인구 삼가동 164번지",
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 처인구 중부대로 1074-1",
+                    "REFINE_ZIP_CD": "17090",
+                    "REFINE_WGS84_LOGT": "127.1591338",
+                    "REFINE_WGS84_LAT": "37.243299"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "hospital": [
+        {
+            "head": [
+                {
+                    "list_total_count": 195
+                },
+                {
+                    "RESULT": {
+                        "CODE": "INFO-000",
+                        "MESSAGE": "정상 처리되었습니다."
+                    }
+                },
+                {
+                    "api_version": "1.0"
+                }
+            ]
+        },
+        {
+            "row": [
+                {
+                    "SIGUN_NM": "용인시",
+                    "SIGUN_CD": "41460",
+                    "BIZPLC_NM": "해피동물병원",
+                    "LICENSG_DE": "20001124",
+                    "BSN_STATE_NM": "정상",
+                    "LICENSG_CANCL_DE": null,
+                    "BSN_STATE_DIV_CD": "0000",
+                    "CLSBIZ_DE": null,
+                    "LOCPLC_ZIP_CD": null,
+                    "TOT_EMPLY_CNT": null,
+                    "SFRMPROD_PROCSBIZ_DIV_NM": null,
+                    "STOCKRS_DUTY_DIV_NM": "동물병원",
+                    "LOCPLC_FACLT_TELNO": "287-7275",
+                    "LOCPLC_AR_INFO": "0",
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 기흥구 보정동 700-7번지 ",
+                    "ROADNM_ZIP_CD": "16908",
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 기흥구 용구대로 2444, A동 101호 102호 (보정동)",
+                    "REFINE_ZIP_CD": "16908",
+                    "REFINE_WGS84_LOGT": "127.1060997",
+                    "REFINE_WGS84_LAT": "37.3040954",
+                    "BIZCOND_DIV_NM_INFO": null,
+                    "X_CRDNT_VL": "209345.486653968    ",
+                    "Y_CRDNT_VL": "422517.525161407    ",
+                    "STOCKRS_IDNTFY_NO": null,
+                    "RIGHT_MAINBD_IDNTFY_NO": "000"
+                },
+                {
+                    "SIGUN_NM": "용인시",
+                    "SIGUN_CD": "41460",
+                    "BIZPLC_NM": "이든동물병원",
+                    "LICENSG_DE": "20090306",
+                    "BSN_STATE_NM": "폐업",
+                    "LICENSG_CANCL_DE": null,
+                    "BSN_STATE_DIV_CD": "0002",
+                    "CLSBIZ_DE": "20121224",
+                    "LOCPLC_ZIP_CD": null,
+                    "TOT_EMPLY_CNT": null,
+                    "SFRMPROD_PROCSBIZ_DIV_NM": null,
+                    "STOCKRS_DUTY_DIV_NM": "동물병원",
+                    "LOCPLC_FACLT_TELNO": "889-3777",
+                    "LOCPLC_AR_INFO": "64.6",
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 기흥구 보정동 1195-1   번지 108호",
+                    "ROADNM_ZIP_CD": null,
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 기흥구 죽전로 3 108호 (보정동)",
+                    "REFINE_ZIP_CD": "16897",
+                    "REFINE_WGS84_LOGT": "127.1090782",
+                    "REFINE_WGS84_LAT": "37.3206805",
+                    "BIZCOND_DIV_NM_INFO": null,
+                    "X_CRDNT_VL": null,
+                    "Y_CRDNT_VL": null,
+                    "STOCKRS_IDNTFY_NO": null,
+                    "RIGHT_MAINBD_IDNTFY_NO": "000"
+                },
+                {
+                    "SIGUN_NM": "용인시",
+                    "SIGUN_CD": "41460",
+                    "BIZPLC_NM": "수지동물병원",
+                    "LICENSG_DE": "20130716",
+                    "BSN_STATE_NM": "폐업",
+                    "LICENSG_CANCL_DE": null,
+                    "BSN_STATE_DIV_CD": "0002",
+                    "CLSBIZ_DE": "20151106",
+                    "LOCPLC_ZIP_CD": null,
+                    "TOT_EMPLY_CNT": null,
+                    "SFRMPROD_PROCSBIZ_DIV_NM": null,
+                    "STOCKRS_DUTY_DIV_NM": "동물병원",
+                    "LOCPLC_FACLT_TELNO": "031-889-7582",
+                    "LOCPLC_AR_INFO": "52.65",
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 수지구 동천동",
+                    "ROADNM_ZIP_CD": "16828",
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 수지구 문인로54번길 2 (동천동, 수지하우비상가 103호)",
+                    "REFINE_ZIP_CD": "16828",
+                    "REFINE_WGS84_LOGT": "127.0973273",
+                    "REFINE_WGS84_LAT": "37.3335120",
+                    "BIZCOND_DIV_NM_INFO": null,
+                    "X_CRDNT_VL": "208559.945143383",
+                    "Y_CRDNT_VL": "425733.129247707",
+                    "STOCKRS_IDNTFY_NO": null,
+                    "RIGHT_MAINBD_IDNTFY_NO": "000"
+                },
+                {
+                    "SIGUN_NM": "용인시",
+                    "SIGUN_CD": "41460",
+                    "BIZPLC_NM": "제이동물병원",
+                    "LICENSG_DE": "20090122",
+                    "BSN_STATE_NM": "폐업",
+                    "LICENSG_CANCL_DE": null,
+                    "BSN_STATE_DIV_CD": "0002",
+                    "CLSBIZ_DE": "20100915",
+                    "LOCPLC_ZIP_CD": null,
+                    "TOT_EMPLY_CNT": null,
+                    "SFRMPROD_PROCSBIZ_DIV_NM": null,
+                    "STOCKRS_DUTY_DIV_NM": "동물병원",
+                    "LOCPLC_FACLT_TELNO": null,
+                    "LOCPLC_AR_INFO": "107.8",
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 기흥구 신갈동 66-5번지",
+                    "ROADNM_ZIP_CD": null,
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 기흥구 신구로12번길 32 (신갈동)",
+                    "REFINE_ZIP_CD": "17064",
+                    "REFINE_WGS84_LOGT": "127.1126327",
+                    "REFINE_WGS84_LAT": "37.2745449",
+                    "BIZCOND_DIV_NM_INFO": null,
+                    "X_CRDNT_VL": "209924.730587183",
+                    "Y_CRDNT_VL": "419191.433042484",
+                    "STOCKRS_IDNTFY_NO": null,
+                    "RIGHT_MAINBD_IDNTFY_NO": "000"
+                },
+                {
+                    "SIGUN_NM": "용인시",
+                    "SIGUN_CD": "41460",
+                    "BIZPLC_NM": "참존동물병원",
+                    "LICENSG_DE": "20070403",
+                    "BSN_STATE_NM": "폐업",
+                    "LICENSG_CANCL_DE": null,
+                    "BSN_STATE_DIV_CD": "0002",
+                    "CLSBIZ_DE": "20090228",
+                    "LOCPLC_ZIP_CD": null,
+                    "TOT_EMPLY_CNT": null,
+                    "SFRMPROD_PROCSBIZ_DIV_NM": null,
+                    "STOCKRS_DUTY_DIV_NM": "동물병원",
+                    "LOCPLC_FACLT_TELNO": "282-7577",
+                    "LOCPLC_AR_INFO": "36.4",
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 기흥구 상갈동 482-2   번지 금화타운 102호",
+                    "ROADNM_ZIP_CD": null,
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 기흥구 금화로 9 102호 (상갈동,금화타운)",
+                    "REFINE_ZIP_CD": "17073",
+                    "REFINE_WGS84_LOGT": "127.1052977",
+                    "REFINE_WGS84_LAT": "37.2616577",
+                    "BIZCOND_DIV_NM_INFO": null,
+                    "X_CRDNT_VL": null,
+                    "Y_CRDNT_VL": null,
+                    "STOCKRS_IDNTFY_NO": null,
+                    "RIGHT_MAINBD_IDNTFY_NO": "000"
+                }
+            ]
+        }
+    ]
+}

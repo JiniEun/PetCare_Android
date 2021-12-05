@@ -1,0 +1,46 @@
+{
+    "DoanmalfunrlPrmisnentrp": [
+        {
+            "head": [
+                {
+                    "list_total_count": 2
+                },
+                {
+                    "RESULT": {
+                        "CODE": "INFO-000",
+                        "MESSAGE": "정상 처리되었습니다."
+                    }
+                },
+                {
+                    "api_version": "1.0"
+                }
+            ]
+        },
+        {
+            "row": [
+                {
+                    "SIGUN_NM": "용인시",
+                    "BIZPLC_NM": "리멤버",
+                    "REPRSNTV_NM": null,
+                    "TELNO": "080-200-5004",
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 처인구 남사면 방아리 883-3",
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 처인구 남사면 원암로 535",
+                    "REFINE_ZIP_CD": "17123",
+                    "REFINE_WGS84_LOGT": "127.1721066960",
+                    "REFINE_WGS84_LAT": "37.1072869779"
+                },
+                {
+                    "SIGUN_NM": "용인시",
+                    "BIZPLC_NM": "씨엘로펫",
+                    "REPRSNTV_NM": null,
+                    "TELNO": "1577-7332",
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 처인구 백암면 백암리 220",
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 처인구 백암면 죽양대로 1206",
+                    "REFINE_ZIP_CD": "17172",
+                    "REFINE_WGS84_LOGT": "127.3748591683",
+                    "REFINE_WGS84_LAT": "37.1699514181"
+                }
+            ]
+        }
+    ]
+}

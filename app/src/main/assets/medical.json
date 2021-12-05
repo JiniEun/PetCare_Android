@@ -1,0 +1,154 @@
+{
+    "AnimalPharmacy": [
+        {
+            "head": [
+                {
+                    "list_total_count": 191
+                },
+                {
+                    "RESULT": {
+                        "CODE": "INFO-000",
+                        "MESSAGE": "정상 처리되었습니다."
+                    }
+                },
+                {
+                    "api_version": "1.0"
+                }
+            ]
+        },
+        {
+            "row": [
+                {
+                    "SIGUN_CD": "41460",
+                    "SIGUN_NM": "용인시",
+                    "BIZPLC_NM": "팜메드약국",
+                    "LICENSG_DE": "20130905",
+                    "BSN_STATE_NM": "폐업",
+                    "LICENSG_CANCL_DE": null,
+                    "CLSBIZ_DE": "20190124",
+                    "BSN_STATE_DIV_CD": "0002",
+                    "TOT_EMPLY_CNT": null,
+                    "SFRMPROD_PROCSBIZ_DIV_NM": null,
+                    "STOCKRS_DUTY_DIV_NM": "동물약국",
+                    "LOCPLC_FACLT_TELNO": "031-282-2755",
+                    "LOCPLC_AR_INFO": null,
+                    "ROADNM_ZIP_CD": "17064",
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 기흥구 신갈동 70번지 동인빌딩 109호",
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 기흥구 신갈로 52, 109호 (신갈동, 동인빌딩)",
+                    "REFINE_ZIP_CD": "17064",
+                    "REFINE_WGS84_LOGT": "127.1058292",
+                    "REFINE_WGS84_LAT": "37.2711001",
+                    "BIZCOND_DIV_NM_INFO": null,
+                    "X_CRDNT_VL": "209332.439148151    ",
+                    "Y_CRDNT_VL": "418814.759414963    ",
+                    "STOCKRS_IDNTFY_NO": null,
+                    "RIGHT_MAINBD_IDNTFY_NO": "000"
+                },
+                {
+                    "SIGUN_CD": "41460",
+                    "SIGUN_NM": "용인시",
+                    "BIZPLC_NM": "소망약국",
+                    "LICENSG_DE": "20181012",
+                    "BSN_STATE_NM": "폐업",
+                    "LICENSG_CANCL_DE": null,
+                    "CLSBIZ_DE": "20190129",
+                    "BSN_STATE_DIV_CD": "0002",
+                    "TOT_EMPLY_CNT": null,
+                    "SFRMPROD_PROCSBIZ_DIV_NM": null,
+                    "STOCKRS_DUTY_DIV_NM": "동물약국",
+                    "LOCPLC_FACLT_TELNO": null,
+                    "LOCPLC_AR_INFO": null,
+                    "ROADNM_ZIP_CD": "17144",
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 처인구 마평동 643번지 ",
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 처인구 금령로173번길 10, 104호 (마평동)",
+                    "REFINE_ZIP_CD": "17144",
+                    "REFINE_WGS84_LOGT": "127.2158447",
+                    "REFINE_WGS84_LAT": "37.2348040",
+                    "BIZCOND_DIV_NM_INFO": null,
+                    "X_CRDNT_VL": "219088.261560454    ",
+                    "Y_CRDNT_VL": "414796.295298766    ",
+                    "STOCKRS_IDNTFY_NO": null,
+                    "RIGHT_MAINBD_IDNTFY_NO": "000"
+                },
+                {
+                    "SIGUN_CD": "41460",
+                    "SIGUN_NM": "용인시",
+                    "BIZPLC_NM": "숨약국",
+                    "LICENSG_DE": "20170814",
+                    "BSN_STATE_NM": "정상",
+                    "LICENSG_CANCL_DE": null,
+                    "CLSBIZ_DE": null,
+                    "BSN_STATE_DIV_CD": "0000",
+                    "TOT_EMPLY_CNT": null,
+                    "SFRMPROD_PROCSBIZ_DIV_NM": null,
+                    "STOCKRS_DUTY_DIV_NM": "동물약국",
+                    "LOCPLC_FACLT_TELNO": "0312667885",
+                    "LOCPLC_AR_INFO": null,
+                    "ROADNM_ZIP_CD": "16874",
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 수지구 죽전동 1259-1번지 108호",
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 수지구 푸른솔로 87, 108호 (죽전동, 그랜드프라자)",
+                    "REFINE_ZIP_CD": "16874",
+                    "REFINE_WGS84_LOGT": "127.1182475",
+                    "REFINE_WGS84_LAT": "37.3261502",
+                    "BIZCOND_DIV_NM_INFO": null,
+                    "X_CRDNT_VL": "210414.247185865",
+                    "Y_CRDNT_VL": "424919.03274778",
+                    "STOCKRS_IDNTFY_NO": null,
+                    "RIGHT_MAINBD_IDNTFY_NO": "000"
+                },
+                {
+                    "SIGUN_CD": "41460",
+                    "SIGUN_NM": "용인시",
+                    "BIZPLC_NM": "백약국",
+                    "LICENSG_DE": "20160804",
+                    "BSN_STATE_NM": "폐업",
+                    "LICENSG_CANCL_DE": null,
+                    "CLSBIZ_DE": "20170117",
+                    "BSN_STATE_DIV_CD": "0002",
+                    "TOT_EMPLY_CNT": null,
+                    "SFRMPROD_PROCSBIZ_DIV_NM": null,
+                    "STOCKRS_DUTY_DIV_NM": "동물약국",
+                    "LOCPLC_FACLT_TELNO": "031-242-2010",
+                    "LOCPLC_AR_INFO": "0",
+                    "ROADNM_ZIP_CD": "16836",
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 수지구 풍덕천동 1078번지 213호",
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 수지구 풍덕천로 119, 2층층 213호 (풍덕천동, 로얄스포츠센터)",
+                    "REFINE_ZIP_CD": "16836",
+                    "REFINE_WGS84_LOGT": "127.0947982",
+                    "REFINE_WGS84_LAT": "37.3230081",
+                    "BIZCOND_DIV_NM_INFO": null,
+                    "X_CRDNT_VL": "208336.644254501",
+                    "Y_CRDNT_VL": "424568.781762635",
+                    "STOCKRS_IDNTFY_NO": null,
+                    "RIGHT_MAINBD_IDNTFY_NO": "000"
+                },
+                {
+                    "SIGUN_CD": "41460",
+                    "SIGUN_NM": "용인시",
+                    "BIZPLC_NM": "수지종로약국",
+                    "LICENSG_DE": "20140213",
+                    "BSN_STATE_NM": "정상",
+                    "LICENSG_CANCL_DE": null,
+                    "CLSBIZ_DE": null,
+                    "BSN_STATE_DIV_CD": "0000",
+                    "TOT_EMPLY_CNT": null,
+                    "SFRMPROD_PROCSBIZ_DIV_NM": null,
+                    "STOCKRS_DUTY_DIV_NM": "동물약국",
+                    "LOCPLC_FACLT_TELNO": "031-264-5543",
+                    "LOCPLC_AR_INFO": "91.2",
+                    "ROADNM_ZIP_CD": "16823",
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 수지구 동천동 944번지 훼미리프라자 111,112호",
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 수지구 손곡로 100, 111,112호 (동천동, 훼미리프라자)",
+                    "REFINE_ZIP_CD": "16823",
+                    "REFINE_WGS84_LOGT": "127.0916097",
+                    "REFINE_WGS84_LAT": "37.3363186",
+                    "BIZCOND_DIV_NM_INFO": null,
+                    "X_CRDNT_VL": "208053.008665237",
+                    "Y_CRDNT_VL": "426045.035550898",
+                    "STOCKRS_IDNTFY_NO": null,
+                    "RIGHT_MAINBD_IDNTFY_NO": "000"
+                }
+            ]
+        }
+    ]
+}

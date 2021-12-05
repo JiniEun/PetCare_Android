@@ -1,0 +1,154 @@
+{
+    "AnimalSale": [
+        {
+            "head": [
+                {
+                    "list_total_count": 394
+                },
+                {
+                    "RESULT": {
+                        "CODE": "INFO-000",
+                        "MESSAGE": "정상 처리되었습니다."
+                    }
+                },
+                {
+                    "api_version": "1.0"
+                }
+            ]
+        },
+        {
+            "row": [
+                {
+                    "SIGUN_CD": "41460",
+                    "SIGUN_NM": "용인시",
+                    "BIZPLC_NM": "굿모닝동물병원",
+                    "LICENSG_DE": "20180914",
+                    "BSN_STATE_NM": "정상",
+                    "LICENSG_CANCL_DE": null,
+                    "CLSBIZ_DE": null,
+                    "BSN_STATE_DIV_CD": "0000",
+                    "TOT_EMPLY_CNT": null,
+                    "SFRMPROD_PROCSBIZ_DIV_NM": "미용",
+                    "STOCKRS_DUTY_DIV_NM": "동물판매업",
+                    "LOCPLC_FACLT_TELNO": "031-339-5575",
+                    "LOCPLC_AR_INFO": "0",
+                    "ROADNM_ZIP_CD": "17154",
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 처인구 마평동 907번지 불타는조개구이",
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 처인구 경안천로 2 (마평동)",
+                    "REFINE_ZIP_CD": "17154",
+                    "REFINE_WGS84_LOGT": "127.2112094",
+                    "REFINE_WGS84_LAT": "37.2334697",
+                    "BIZCOND_DIV_NM_INFO": null,
+                    "X_CRDNT_VL": "218677.250596305",
+                    "Y_CRDNT_VL": "414645.733950627",
+                    "STOCKRS_IDNTFY_NO": null,
+                    "RIGHT_MAINBD_IDNTFY_NO": "000"
+                },
+                {
+                    "SIGUN_CD": "41460",
+                    "SIGUN_NM": "용인시",
+                    "BIZPLC_NM": "펫스토리 동물병원",
+                    "LICENSG_DE": "20180829",
+                    "BSN_STATE_NM": "정상",
+                    "LICENSG_CANCL_DE": null,
+                    "CLSBIZ_DE": null,
+                    "BSN_STATE_DIV_CD": "0000",
+                    "TOT_EMPLY_CNT": null,
+                    "SFRMPROD_PROCSBIZ_DIV_NM": "미용",
+                    "STOCKRS_DUTY_DIV_NM": "동물판매업",
+                    "LOCPLC_FACLT_TELNO": "031-276-0282",
+                    "LOCPLC_AR_INFO": "0",
+                    "ROADNM_ZIP_CD": "16814",
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 수지구 신봉동 83번지 신LG프라자 102호",
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 수지구 신봉2로 19, 신LG프라자 102호 (신봉동)",
+                    "REFINE_ZIP_CD": "16814",
+                    "REFINE_WGS84_LOGT": "127.0770527",
+                    "REFINE_WGS84_LAT": "37.3244802",
+                    "BIZCOND_DIV_NM_INFO": null,
+                    "X_CRDNT_VL": "206763.168265928",
+                    "Y_CRDNT_VL": "424729.370568535",
+                    "STOCKRS_IDNTFY_NO": null,
+                    "RIGHT_MAINBD_IDNTFY_NO": "000"
+                },
+                {
+                    "SIGUN_CD": "41460",
+                    "SIGUN_NM": "용인시",
+                    "BIZPLC_NM": "Royal Poodle",
+                    "LICENSG_DE": "20180410",
+                    "BSN_STATE_NM": "정상",
+                    "LICENSG_CANCL_DE": null,
+                    "CLSBIZ_DE": null,
+                    "BSN_STATE_DIV_CD": "0000",
+                    "TOT_EMPLY_CNT": null,
+                    "SFRMPROD_PROCSBIZ_DIV_NM": "생산",
+                    "STOCKRS_DUTY_DIV_NM": "동물판매업",
+                    "LOCPLC_FACLT_TELNO": null,
+                    "LOCPLC_AR_INFO": "0",
+                    "ROADNM_ZIP_CD": "17175",
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 처인구 원삼면 두창리 491-1번지",
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 처인구 원삼면 두창로 151",
+                    "REFINE_ZIP_CD": "17175",
+                    "REFINE_WGS84_LOGT": "127.3389774",
+                    "REFINE_WGS84_LAT": "37.1678420",
+                    "BIZCOND_DIV_NM_INFO": null,
+                    "X_CRDNT_VL": "230041.420853912",
+                    "Y_CRDNT_VL": "407395.051804652",
+                    "STOCKRS_IDNTFY_NO": null,
+                    "RIGHT_MAINBD_IDNTFY_NO": "000"
+                },
+                {
+                    "SIGUN_CD": "41460",
+                    "SIGUN_NM": "용인시",
+                    "BIZPLC_NM": "비비안펫샵",
+                    "LICENSG_DE": "20180504",
+                    "BSN_STATE_NM": "정상",
+                    "LICENSG_CANCL_DE": null,
+                    "CLSBIZ_DE": null,
+                    "BSN_STATE_DIV_CD": "0000",
+                    "TOT_EMPLY_CNT": null,
+                    "SFRMPROD_PROCSBIZ_DIV_NM": "미용",
+                    "STOCKRS_DUTY_DIV_NM": "동물판매업",
+                    "LOCPLC_FACLT_TELNO": "031-263-6332",
+                    "LOCPLC_AR_INFO": "0",
+                    "ROADNM_ZIP_CD": "16815",
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 수지구 신봉동 25-1번지 LG프라자",
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 수지구 신봉1로 62, LG프라자 103호 (신봉동)",
+                    "REFINE_ZIP_CD": "16815",
+                    "REFINE_WGS84_LOGT": "127.0786302",
+                    "REFINE_WGS84_LAT": "37.3224790",
+                    "BIZCOND_DIV_NM_INFO": null,
+                    "X_CRDNT_VL": "206904.681941322",
+                    "Y_CRDNT_VL": "424509.482362274",
+                    "STOCKRS_IDNTFY_NO": null,
+                    "RIGHT_MAINBD_IDNTFY_NO": "000"
+                },
+                {
+                    "SIGUN_CD": "41460",
+                    "SIGUN_NM": "용인시",
+                    "BIZPLC_NM": "터미널 애완용품 판매점",
+                    "LICENSG_DE": "20180718",
+                    "BSN_STATE_NM": "정상",
+                    "LICENSG_CANCL_DE": null,
+                    "CLSBIZ_DE": null,
+                    "BSN_STATE_DIV_CD": "0000",
+                    "TOT_EMPLY_CNT": null,
+                    "SFRMPROD_PROCSBIZ_DIV_NM": "미용",
+                    "STOCKRS_DUTY_DIV_NM": "동물판매업",
+                    "LOCPLC_FACLT_TELNO": null,
+                    "LOCPLC_AR_INFO": "0",
+                    "ROADNM_ZIP_CD": "17063",
+                    "REFINE_LOTNO_ADDR": "경기도 용인시 처인구 김량장동 40-9번지",
+                    "REFINE_ROADNM_ADDR": "경기도 용인시 처인구 백옥대로 1079 (김량장동)",
+                    "REFINE_ZIP_CD": "17063",
+                    "REFINE_WGS84_LOGT": "127.2090191",
+                    "REFINE_WGS84_LAT": "37.2319418",
+                    "BIZCOND_DIV_NM_INFO": null,
+                    "X_CRDNT_VL": "218481.605180199",
+                    "Y_CRDNT_VL": "414476.677099274",
+                    "STOCKRS_IDNTFY_NO": null,
+                    "RIGHT_MAINBD_IDNTFY_NO": "000"
+                }
+            ]
+        }
+    ]
+}
