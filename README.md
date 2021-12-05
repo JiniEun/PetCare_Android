@@ -1,6 +1,6 @@
 # 📌 2020-1 Capstone-Design
 
-<img src="https://user-images.githubusercontent.com/44025989/124957325-eb542600-e053-11eb-8869-6911a1ad9e1b.png" width="30%" height="20%" title="Petcare" alt="Petcare"></img>
+<img src="https://user-images.githubusercontent.com/49184115/144735307-a793b7cb-fa43-43fc-b894-265e5bae763c.png" width="30%" height="20%" title="Petcare" alt="Petcare"></img>
 
 ## 🛠 Stack 🛠
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a> <a href="https://developer.android.com/studio/" target="_blank"><img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/></a> 
@@ -27,7 +27,7 @@
 <br>
 
 ## ⚙ System Configuration
-<img src="https://user-images.githubusercontent.com/44025989/98000613-04a33380-1e30-11eb-8ac7-8310bb2b9417.png" width="60%" height="50%" title="System Configuration" alt="System Configuration"></img>
+<img src="https://user-images.githubusercontent.com/49184115/144735296-6a48eb05-2a6a-41f4-a90a-d1cfe488ef91.png" width="60%" height="50%" title="System Configuration" alt="System Configuration"></img>
 
 <br>
 
